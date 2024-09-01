@@ -110,3 +110,15 @@ footer {
 .icon{
     width: 100px;
 }
+
+.movie:hover{
+    background-color: #000;
+    transition: 1.2s;
+    color: #ffffff;
+}
+
+button:hover{
+    background-color: #000;
+    transition: 1.2s;
+    color: #ffffff;
+}
